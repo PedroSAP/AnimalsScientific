@@ -1,0 +1,9 @@
+# requirements.txt — ScientificAnimals
+flask
+langchain
+huggingface-hub
+faiss-cpu
+wikipedia
+arxiv
+transformers
+sentence-transformers
